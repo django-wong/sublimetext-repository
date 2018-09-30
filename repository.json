@@ -1,0 +1,46 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "File Navigator",
+			"details": "https://github.com/django-wong/SublimeText-File-Navigator",
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "SublimeLinter",
+			"details": "https://github.com/django-wong/SublimeLinter",
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Keymaps",
+			"details": "https://github.com/django-wong/sublime-keymaps",
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "GitSavvy",
+			"details": "https://github.com/django-wong/GitSavvy",
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"branch": "master"
+				}
+			]
+		}
+	],
+	"dependencies": []
+}
