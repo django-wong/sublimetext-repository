@@ -40,6 +40,16 @@
 					"branch": "master"
 				}
 			]
+		},
+		{
+			"name": "PackageDev",
+			"details": "https://github.com/django-wong/PackageDev",
+			"releases": [
+				{
+					"sublime_text": ">3000",
+					"branch": "master"
+				}
+			]
 		}
 	],
 	"dependencies": []
